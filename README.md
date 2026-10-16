@@ -1,10 +1,12 @@
-🛡️ ENTERPRISE ZERO‑TRUST DOSSIER — BLACKOPS / GOVERNANCE / QUANTUM‑ERA
+###### 🛡️ ENTERPRISE ZERO‑TRUST / GOVERNANCE
 
+```text
 Major Hamblin • The MadDoG
 
 Cyber Architect • DevSecOps • GitHub Governance Engineer • Termux Specialist
 
 Classification: Q‑E7 • Clearance: Enterprise‑Grade • Mode: Silent Execution
+```
 
 ---
 
