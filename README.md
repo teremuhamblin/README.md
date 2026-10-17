@@ -1,3 +1,4 @@
+###### README.md >> markdown
 ###### 🛡️ ENTERPRISE ZERO‑TRUST / GOVERNANCE
 
 ```text
@@ -10,19 +11,21 @@ Classification: Q‑E7 • Clearance: Enterprise‑Grade • Mode: Silent Execut
 
 ---
 
-🛰️ OPERATOR DOSSIER — CLASSIFIED
-Status: Active  
-Threat Model: Zero‑Trust  
-Exposure Level: Minimal  
-Operational Footprint: Encrypted  
-Governance Compliance: ISO 27001 • SOC2 • NIST SP 800‑207 • ANSSI RGS  
+### 🛰️ OPERATOR DOSSIER — CLASSIFIED
+- Status: Active  
+- Threat Model: Zero‑Trust  
+- Exposure Level: Minimal  
+- Operational Footprint: Encrypted  
+- Governance Compliance: ISO 27001 • SOC2 • NIST SP 800‑207 • ANSSI RGS  
 
-> Document classifié. Diffusion contrôlée. Toute reproduction non autorisée est interdite.
+> Document classifié.
+- Diffusion contrôlée.
+   - Toute reproduction non autorisée est interdite.
 
 ---
 
-🔐 ZERO‑TRUST STATUS — ENTERPRISE COMPLIANCE
-Conformité stricte aux doctrines :
+### 🔐 ZERO‑TRUST STATUS — ENTERPRISE COMPLIANCE
+>>Conformité stricte aux doctrines :
 
 - NEVER TRUST — ALWAYS VERIFY  
 - Least Privilege Enforcement  
@@ -39,7 +42,7 @@ Conformité stricte aux doctrines :
 
 ---
 
-🖤 BLACKOPS OPERATIONAL MODE
+### 🖤 BLACKOPS OPERATIONAL MODE
 - 🖤 Minimal Exposure — surface réduite, aucun bruit inutile  
 - 🖤 Silent Execution — opérations discrètes, optimisées  
 - 🖤 Hardened Pipelines — CI/CD blindée, SAST, secrets scan, artifact signing  
@@ -52,7 +55,7 @@ Conformité stricte aux doctrines :
 
 ---
 
-🧭 GOVERNANCE & ENTERPRISE CONTROL
+### 🧭 GOVERNANCE & ENTERPRISE CONTROL
 - 📘 GitHub Governance (Policies, CODEOWNERS, Compliance)  
 - 🛡 Security Posture Management  
 - 📦 Release Discipline (SemVer, Changelog, Audit Trails)  
@@ -66,46 +69,46 @@ Conformité stricte aux doctrines :
 
 ---
 
-🏆 Enterprise Achievements Display
+### 🏆 Enterprise Achievements Display
 https://github-profile-trophy.vercel.app/?username=teremuhamblin&theme=matrix&column=6&no-bg=true
 
 ---
 
-📊 Operational Metrics — Enterprise Telemetry
+### 📊 Operational Metrics — Enterprise Telemetry
 
-🔥 Activity Radar
+>>🔥 Activity Radar
 https://github-readme-stats.vercel.app/api?username=teremuhamblin&showicons=true&theme=tokyonight&hideborder=true
 
-🧠 Code Surface Analysis
+>>🧠 Code Surface Analysis
 https://github-readme-stats.vercel.app/api/top-langs/?username=teremuhamblin&layout=compact&theme=tokyonight&hide_border=true
 
-🛰 Continuity & Uptime
+>>🛰 Continuity & Uptime
 https://github-readme-streak-stats.herokuapp.com/?user=teremuhamblin&theme=tokyonight&hide_border=true
 
 ---
 
-🗂️ Enterprise Zero‑Trust Projects — Active Operations
+### 🗂️ Enterprise Zero‑Trust Projects — Active Operations
 
-🔹 GitHub‑CommunityHub
+>>🔹 GitHub‑CommunityHub
 Centre de gouvernance GitHub : workflows, policies, compliance, templates.
 
-🔹 BisAT v11.0.0
+>>🔹 BisAT v11.0.0
 Système doctrinal Zero‑Trust — architecture militaire‑tech.
 
-🔹 ServalApp v1.3 / v2.0
+>>🔹 ServalApp v1.3 / v2.0
 Suite cyber‑ops modulaire pour environnements durcis.
 
-🔹 VLX‑16S ECU
+>>🔹 VLX‑16S ECU
 Module embarqué tactique — architecture électronique sécurisée.
 
-🔹 LégionOS CYBER OPS v7
+>>🔹 LégionOS CYBER OPS v7
 Environnement Termux militarisé, durci, conforme Zero‑Trust.
 
 ---
 
-🛠 Enterprise Arsenal — Hardened Tech Stack
+### 🛠 Enterprise Arsenal — Hardened Tech Stack
 
-🔐 Security & Governance
+>>🔐 Security & Governance
 - Zero‑Trust Architecture  
 - IAM / RBAC / ABAC  
 - Secrets Management  
@@ -113,7 +116,7 @@ Environnement Termux militarisé, durci, conforme Zero‑Trust.
 - GitHub Security & Policies  
 - SBOM / Artifact Signing / Supply Chain Security  
 
-⚙️ DevSecOps & Infra
+>>⚙️ DevSecOps & Infra
 - GitHub Actions  
 - Docker  
 - GitOps  
@@ -121,7 +124,7 @@ Environnement Termux militarisé, durci, conforme Zero‑Trust.
 - CI/CD Hardened Pipelines  
 - Infrastructure as Code (IaC) Governance  
 
-🧬 Core Engineering
+>>🧬 Core Engineering
 - Bash  
 - Python  
 - JavaScript  
@@ -129,14 +132,14 @@ Environnement Termux militarisé, durci, conforme Zero‑Trust.
 
 ---
 
-🛰 Enterprise Contact & Network
+### 🛰 Enterprise Contact & Network
 - 🔗 GitHub : github.com/teremuhamblin  
 - 🛡 Communication : via dépôts publics  
 - 🧱 Pas de réseaux sociaux — discipline Zero‑Trust  
 
 ---
 
-🧪 Enterprise Motto
+### 🧪 Enterprise Motto
 > “La confiance est une vulnérabilité. La vérification est une doctrine.”  
 > “Le silence est une stratégie. La gouvernance est une arme.”  
 > “Le code n’est pas un outil — c’est une politique.”  
@@ -145,4 +148,4 @@ Environnement Termux militarisé, durci, conforme Zero‑Trust.
 
 ---
 
-🎯 README.md >> markdown update
+###### 🎯 README.md >> markdown update
